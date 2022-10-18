@@ -1,2 +1,2 @@
 # Database
-Second project
+Second OOP university project, 2021/2022
